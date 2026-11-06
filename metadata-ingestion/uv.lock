@@ -6609,14 +6609,14 @@ wheels = [
 
 [[package]]
 name = "joserfc"
-version = "1.6.4"
+version = "1.7.6"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "cryptography" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/de/c6/de8fdbdfa75c8ca04fead38a82d573df8a82906e984c349d58665f459558/joserfc-1.6.4.tar.gz", hash = "sha256:34ce5f499bfcc5e9ad4cc75077f9278ab3227b71da9aaf28f9ab705f8a560d3c", size = 231866, upload-time = "2026-04-13T13:15:40.632Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/cd/db/ec5b5fe07a7bda62cd2c2d619daf160eb7442b979c7cd61bbe0262108de9/joserfc-1.7.6.tar.gz", hash = "sha256:fb1cf6d2977318bef976c2ed2ef2167cc5f8ade8fc96f034e38f7abd656907c4", size = 236091, upload-time = "2026-10-18T23:12:18.43Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/b6/f7/210b27752e972edb36d239315b08d3eb6b14824cc4a590da2337d195260b/joserfc-1.6.4-py3-none-any.whl", hash = "sha256:3e4a22b509b41908989237a045e25c8308d5fd47ab96bdae2dd8057c6451003a", size = 70464, upload-time = "2026-04-13T13:15:39.259Z" },
+    { url = "https://files.pythonhosted.org/packages/98/40/63886ba742c6fd9e6dd222e20b8d54012fbc933465350c7747c4ed5b31e4/joserfc-1.7.6-py3-none-any.whl", hash = "sha256:e2d72e3fa937ed8ddd42ad8c1cc337a43e7ffd02efa572a2aa15e2764a05b506", size = 71588, upload-time = "2026-10-18T23:12:17.085Z" },
 ]
 
 [[package]]
@@ -11364,10 +11364,6 @@ dependencies = [
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/36/05/bdb3c3433f19324ed3499bc51adb6db934f77d947ed1c624554523b22966/sqlglotc-30.12.0.tar.gz", hash = "sha256:7c4c9c7d76026b75f64a6682faf84cf5145e3304190c07807b86962d8d535f74", size = 491114, upload-time = "2026-06-26T14:08:47.042Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/b1/79/69af8ad60cfbef116a2f63bf5d455bdcaafb369fa27772b4936051e76063/sqlglotc-30.12.0-cp310-cp310-macosx_10_9_universal2.whl", hash = "sha256:1e5ad6689bf76f226e4a3182f3819e9e4056ea0d2b7c1fd610dad22e065b7a10", size = 32008565, upload-time = "2026-06-26T14:08:02.422Z" },
-    { url = "https://files.pythonhosted.org/packages/7e/93/bc5cf48a0fcbc5967687a4f2dfaedf7d2dfd03ae0bca0a57d95e7cbf6495/sqlglotc-30.12.0-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:8412ddb9bb2e3832e36a9d2c279a2c64ffa0d695295f2daae72cef4f68114cb0", size = 24435127, upload-time = "2026-06-26T14:08:05.123Z" },
-    { url = "https://files.pythonhosted.org/packages/07/51/6db6cf0fc07ee398995582dd367fba286be419c06d27c51bf941bc9d09a0/sqlglotc-30.12.0-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:30fe29c8287dc681b8e6c1514c4138861230314ebe86a47081cf4d1141dd2f89", size = 25549128, upload-time = "2026-06-26T14:08:07.303Z" },
-    { url = "https://files.pythonhosted.org/packages/92/a4/74764a4cb764d8acfd4e85127724ce3ca22a663c34cebe3cfd8f4a864224/sqlglotc-30.12.0-cp310-cp310-win_amd64.whl", hash = "sha256:671d7fcb7261b297c014f7cdc54703e28d3de6e58e94a5652beb5a661a3d0786", size = 10735833, upload-time = "2026-06-26T14:08:09.436Z" },
     { url = "https://files.pythonhosted.org/packages/98/00/82c2bc0c49aacdfe53006ebd75d00e9cca536b3d0fe5c661d4c1d36ca27c/sqlglotc-30.12.0-cp311-cp311-macosx_10_9_universal2.whl", hash = "sha256:05f0cf61aba3207aa8d9fe10646168eac01595f521f3d81390ba215a15e8f6b7", size = 31721081, upload-time = "2026-06-26T14:08:11.587Z" },
     { url = "https://files.pythonhosted.org/packages/f1/fb/dac3d917d445301af839bd6ab165edac2378f9d6f0ef583d6e53cd1acd46/sqlglotc-30.12.0-cp311-cp311-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:71784e43ef4af200a3e8e04f42b9977f405cfeee025c7dbeb703b862029b2b3f", size = 24638763, upload-time = "2026-06-26T14:08:14.062Z" },
     { url = "https://files.pythonhosted.org/packages/40/67/c4c8258fc706dd8b349e39fb76b7f26ed3478f6fbbdfe688f341d68c981e/sqlglotc-30.12.0-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:a84dd9d7565b782bef07e577b3400cdcddc81ffaae963d5e8460e431c4e70e27", size = 25798453, upload-time = "2026-06-26T14:08:16.347Z" },
